@@ -30,8 +30,4 @@ let valor1 = parseInt('3'); //para uso local
 let valor2 = parseInt('9'); //para uso local
 let total = valor1 * valor2;
 console.log("PROD = " + total);
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Statu
+
